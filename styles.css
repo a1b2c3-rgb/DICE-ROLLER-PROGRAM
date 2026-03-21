@@ -1,0 +1,33 @@
+.diceroller{
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    background: linear-gradient(180deg, hsl(26, 75%, 38%), rgb(45, 93, 234));
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: aliceblue;
+}
+#numOfDice{
+    width: 70px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+button{
+    background-color: rgb(68, 255, 47);
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+}
+#diceimages img{
+    margin-right: 10px;
+    height: 70px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
