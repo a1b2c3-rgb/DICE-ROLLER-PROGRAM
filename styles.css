@@ -31,3 +31,9 @@ button{
     border-radius: 10px;
     
 }
+button:hover{
+    background-color: rgb(53, 223, 34);
+}
+button:active{
+    background-color: rgb(31, 199, 12);
+}
